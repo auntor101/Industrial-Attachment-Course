@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 <p> This is QA. </p>
+<<<<<<< HEAD
 =======
 <p> this is a new repo. </p>
 <br>
@@ -13,3 +14,6 @@
 =======
 <br>
 >>>>>>> master_hot_fix
+=======
+
+>>>>>>> a58c2a285e6d0b3ac87837eff82a41b3ae1c41b8
